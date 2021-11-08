@@ -56,3 +56,13 @@
 /Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Sqlite.Design.dll
 /Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/Humanizer.dll
 /Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/Data/UserSeedData.json
+/Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/AutoMapper.dll
+/Users/sulavdahal/Desktop/Git/DatingApp/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
